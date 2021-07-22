@@ -1,6 +1,6 @@
 # Face-Detection
 By using openCV
 
-required libraries 
+-required libraries 
 
 pip install opencv-python
